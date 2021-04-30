@@ -1,3 +1,5 @@
+This repo fork is way behind its upstream. I do intend to update it for 2021, but for now I recommend against using it.
+
 jsDAV
 =======
 
@@ -13,8 +15,5 @@ Usage
 -----
 
 TODO
-
-
-
 
 Amsterdam, 2010. Mike de Boer.
